@@ -36,24 +36,24 @@ const counterItems = [
 ];
 
 const logoIconsList = [
-  // {
-  //   imgPath: "/images/logos/company-logo-1.png", //Shopify
-  // },
+  {
+    imgPath: "/images/logos/company-logo-1.png", //Shopify
+  },
   {
     imgPath: "/images/logos/company-logo-2.png", //Microsoft
   },
-  // {
-  //   imgPath: "/images/logos/company-logo-3.png", //Adidas
-  // },
+  {
+    imgPath: "/images/logos/company-logo-3.png", //Adidas
+  },
   {
     imgPath: "/images/logos/company-logo-4.png", //Docker
   },
   {
     imgPath: "/images/logos/company-logo-5.png", //Hostinger
   },
-  // {
-  //   imgPath: "/images/logos/company-logo-6.png", //Adobe
-  // },
+  {
+    imgPath: "/images/logos/company-logo-6.png", //Adobe
+  },
   {
     imgPath: "/images/logos/company-logo-7.png", //AppWrite
   },
@@ -63,12 +63,12 @@ const logoIconsList = [
   {
     imgPath: "/images/logos/company-logo-9.png", //vercel
   },
-  // {
-  //   imgPath: "/images/logos/company-logo-10.png", //Linear
-  // },
-  // {
-  //   imgPath: "/images/logos/company-logo-11.png", //Loom
-  // },
+  {
+    imgPath: "/images/logos/company-logo-10.png", //Linear
+  },
+  {
+    imgPath: "/images/logos/company-logo-11.png", //Loom
+  },
 ];
 
 const abilities = [
