@@ -36,39 +36,39 @@ const counterItems = [
 ];
 
 const logoIconsList = [
+  // {
+  //   imgPath: "/images/logos/company-logo-1.png", //Shopify
+  // },
   {
-    imgPath: "/images/logos/company-logo-1.png",
+    imgPath: "/images/logos/company-logo-2.png", //Microsoft
+  },
+  // {
+  //   imgPath: "/images/logos/company-logo-3.png", //Adidas
+  // },
+  {
+    imgPath: "/images/logos/company-logo-4.png", //Docker
   },
   {
-    imgPath: "/images/logos/company-logo-2.png",
+    imgPath: "/images/logos/company-logo-5.png", //Hostinger
+  },
+  // {
+  //   imgPath: "/images/logos/company-logo-6.png", //Adobe
+  // },
+  {
+    imgPath: "/images/logos/company-logo-7.png", //AppWrite
   },
   {
-    imgPath: "/images/logos/company-logo-3.png",
+    imgPath: "/images/logos/company-logo-8.png", //Nvidia
   },
   {
-    imgPath: "/images/logos/company-logo-4.png",
+    imgPath: "/images/logos/company-logo-9.png", //vercel
   },
-  {
-    imgPath: "/images/logos/company-logo-5.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-6.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-7.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-8.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-9.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-10.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-11.png",
-  },
+  // {
+  //   imgPath: "/images/logos/company-logo-10.png", //Linear
+  // },
+  // {
+  //   imgPath: "/images/logos/company-logo-11.png", //Loom
+  // },
 ];
 
 const abilities = [
@@ -147,7 +147,8 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review:
+      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
     title: "Frontend Developer",
@@ -159,7 +160,8 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review:
+      "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
     title: "Full Stack Developer",
@@ -171,7 +173,8 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review:
+      "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
     title: "React Native Developer",
