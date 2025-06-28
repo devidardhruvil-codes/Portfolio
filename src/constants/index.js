@@ -28,11 +28,18 @@ const words = [
   { text: "Code", imgPath: "/images/code.svg" },
 ];
 
+// const counterItems = [
+//   { value: 15, suffix: "+", label: "Years of Experience" },
+//   { value: 200, suffix: "+", label: "Satisfied Clients" },
+//   { value: 108, suffix: "+", label: "Completed Projects" },
+//   { value: 90, suffix: "%", label: "Client Retention Rate" },
+// ];
+
 const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 10, suffix: "+", label: "Projects Built" },
+  { value: 25, suffix: "+", label: "Skills Learned" },
+  { value: 1100, suffix: "+", label: "Hours of Practice" },
+  { value: 100, suffix: "+", label: "Code Challenges Solved" },
 ];
 
 const logoIconsList = [
@@ -71,27 +78,45 @@ const logoIconsList = [
   },
 ];
 
+// const abilities = [
+//   {
+//     imgPath: "/images/seo.png",
+//     title: "Quality Focus",
+//     desc: "Delivering high-quality results while maintaining attention to every detail.",
+//   },
+//   {
+//     imgPath: "/images/chat.png",
+//     title: "Reliable Communication",
+//     desc: "Keeping you updated at every step to ensure transparency and clarity.",
+//   },
+//   {
+//     imgPath: "/images/time.png",
+//     title: "On-Time Delivery",
+//     desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+//   },
+// ];
+
 const abilities = [
   {
     imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    title: "Robust Software Development",
+    desc: "Crafting clean, scalable, and maintainable code to build high-performance applications with a focus on best practices and modern frameworks.",
   },
   {
     imgPath: "/images/chat.png",
-    title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
+    title: "Collaborative Problem Solving",
+    desc: "Working seamlessly with cross-functional teams to design, develop, and deliver innovative solutions that meet business and user needs.",
   },
   {
     imgPath: "/images/time.png",
-    title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    title: "Dynamic Data Solutions",
+    desc: "Building intuitive query builders and data-driven interfaces to empower users with seamless data exploration and analysis.",
   },
 ];
 
 const techStackImgs = [
   {
-    name: "React Developer",
+    name: "FrontEnd Developer",
     imgPath: "/images/logos/react.png",
   },
   {
@@ -114,7 +139,7 @@ const techStackImgs = [
 
 const techStackIcons = [
   {
-    name: "React Developer",
+    name: "FrontEnd Developer",
     modelPath: "/models/react_logo-transformed.glb",
     scale: 1,
     rotation: [0, 0, 0],
