@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="flex flex-col justify-center md:items-start items-center">
           <a href="https://github.com/devidardhruvil-codes" target="_blank">
-            Have a look at my Projects!✨
+            Have a look at my Other Projects!✨
           </a>
         </div>
 

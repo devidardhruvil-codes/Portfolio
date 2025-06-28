@@ -173,41 +173,40 @@ const techStackIcons = [
 const expCards = [
   {
     review:
-      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+      "Technovate is a trusted digital transformation and IT service provider, delivering innovative, customer-focused solutions. We prioritize integrity, transparency, and secure data handling while maximizing ROI through cutting-edge tools and collaboration. Our inclusive work environment empowers employees and drives impactful solutions for clients and communities.",
     imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
+    logoPath: "/images/technovate logo.jpg",
     title: "Frontend Developer",
-    date: "January 2023 - Present",
+    date: "January 2025 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Developed QueryBuilder, a production-level project using Angular, CSS, and TypeScript.",
+      "Collaborated with backend teams to integrate APIs and worked with senior leadership to ensure high-quality deliverables.",
+      "Designed and implemented an appealing and user-friendly UI/UX, enhancing the overall user experience.",
     ],
   },
   {
     review:
-      "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+      "Augmented Systems is a trusted IT solutions provider with over 15 years of expertise, delivering innovative, high-quality services to drive business growth. Committed to excellence, collaboration, and integrity, they empower clients with cutting-edge technology and reliable partnerships.",
     imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+    logoPath: "/images/augmentedllp.jpg",
+    title: "Project Trainee",
+    date: "June 2024 - July 2024",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Created interactive Power BI dashboards to support client decision-making.",
+      "Collaborated with the analytics team to improve reporting processes.",
+      "Enhanced Power business intelligence skills through hands-on experience.",
     ],
   },
   {
     review:
-      "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+      "CodSoft is an innovative IT services and consultancy firm dedicated to creating transformative software solutions. During my internship, I gained hands-on experience with real-world projects under the guidance of industry experts, fostering my technical skills in a supportive and creative environment.",
     imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
+    logoPath: "/images/codsoft.jpg",
+    title: "Data Science Intern",
+    date: "May 2024 - June 2024",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Utilized Python and relevant data science libraries to analyze datasets, develop predictive models, and derive actionable insights.",
+      "Performed data cleaning and preprocessing to enhance the accuracy of model predictions.",
     ],
   },
 ];
