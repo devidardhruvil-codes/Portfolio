@@ -62,11 +62,19 @@ const Hero = () => {
               <br />
               with a passion for code.
             </p>
-            <Button
-              className="md:w-80 md:h-16 w-60 h-12"
-              id="button"
-              text="See my Work"
-            />
+            <div className="flex flex-col md:flex-row gap-4">
+              <Button
+                className="md:w-80 md:h-16 w-60 h-12"
+                id="button"
+                text="See my Work"
+              />
+              <Button
+                className="md:w-80 md:h-16 w-60 h-12"
+                text="Download CV"
+                href="/cv.pdf"
+                download="DhruvilDevidar_CV.pdf"
+              />
+            </div>
           </div>
         </header>
 
