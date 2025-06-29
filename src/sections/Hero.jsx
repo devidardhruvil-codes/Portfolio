@@ -71,7 +71,7 @@ const Hero = () => {
               <Button
                 className="md:w-80 md:h-16 w-60 h-12"
                 text="Download CV"
-                href="/cv.pdf"
+                href="/DhruvilDevidar_CV latest.pdf"
                 download="DhruvilDevidar_CV.pdf"
               />
             </div>
